@@ -1,1 +1,1 @@
-# music-events-js
+# daily-planner
